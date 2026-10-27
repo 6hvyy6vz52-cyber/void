@@ -1,19 +1,4 @@
-<div align="center">
-    <img src="https://raw.githubusercontent.com/UseInterstellar/Interstellar/main/.github/branding/in.png">
-    <p>Serving over 15 million users since 2022.<p>
-    <p>Interstellar is a web proxy with a Clean and Sleek UI and easy to use menus. Our goal is to provide the best user experience to everyone.</p>
-</div>
 
-![inpreview](https://github.com/UseInterstellar/Interstellar/assets/89202835/2669efed-5186-4932-83c4-725acae60bd2)
-
-> [!IMPORTANT]
-> If you fork this project, consider giving it a star in the original repository!
-
-**Join Our [Discord Community](https://discord.gg/interstellar) for support, more links, and an active community!**
-
-## Features
-
-- About:Blank Cloaking
 - Tab Cloaking
 - Wide collection of apps & games
 - Clean, Easy to use UI
